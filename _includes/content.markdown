@@ -4,8 +4,8 @@ My main research interests include speech recognition and synthesis, computation
 
 *Past*
 
-- MSc Artificial Intelligence, [University of Edinburgh]
-- BMus Music & Sound Recording (Tonmeister), [IoSR], [University of Surrey] 
+- MSc Artificial Intelligence, [University of Edinburgh], 2015
+- BMus Music & Sound Recording (Tonmeister), [IoSR], [University of Surrey], 2014 
 
 I have previously worked as a theatre consultant for [Charcoalblue], advising on all aspects of audiovisual and acoustics design; and as a software tester and mechanic for the stage technology company [Visual act].
 
