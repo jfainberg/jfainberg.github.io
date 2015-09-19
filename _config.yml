@@ -2,7 +2,7 @@
 title: Joachim Fainberg
 email: s1043206@sms.ed.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Joachim Fainberg's homepage
+  Joachim Fainberg is a PhD student working on speech recognition at the University of Edinburgh.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jfainberg.github.io" # the base hostname & protocol for your site
 github_username:  jfainberg
