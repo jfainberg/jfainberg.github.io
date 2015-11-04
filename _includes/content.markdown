@@ -1,6 +1,6 @@
 I am a PhD student within the [ILCC] and [CSTR] institutes of the [School of Informatics] at the [University of Edinburgh]. My supervisors are [Steve Renals] and [Peter Bell].
 
-Briefly, my main research interests include
+My main research interests include
 
 - *speech recognition*: how can we best make use of data in various acoustic and linguistic conditions?
 - *computational auditory scene analysis*: sound source localisation and separation inspired by the human auditory system, and
