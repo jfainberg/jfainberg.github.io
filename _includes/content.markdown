@@ -14,13 +14,13 @@ My main research interests include
 
 I have previously worked as a theatre consultant for [Charcoalblue], advising on all aspects of audiovisual and acoustics design; and as a software tester and mechanic for the stage technology company [Visual act].
 
-###Publications
+### Publications
 
 {% comment %}
 - C. Hummersone, J. Fainberg, and M. Dewhirst, "Binaural Computational Auditory Scene Analysis in Reverberant Environments Using a Histographic Localisation Algorithm", *IEEE Transactions on Acoustics, Speech and Signal Processing* (In review), 2015
 {% endcomment %}
 
-####Other
+#### Other
 
 - J. Fainberg, "Improving Children's Speech Recognition through Out of Domain Data Augmentation", *Master's thesis*, University of Edinburgh, Edinburgh, 2015
 - J. Fainberg, "Sound Source Separation in Reverberant Environments using Interaural Coherence in a Probabilistic Model of Localisation", *Bachelor's thesis*, University of Surrey, Guildford, 2014
