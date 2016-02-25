@@ -26,7 +26,6 @@ I have previously worked as a theatre consultant for [Charcoalblue], advising on
 - J. Fainberg, "Sound Source Separation in Reverberant Environments using Interaural Coherence in a Probabilistic Model of Localisation", *Bachelor's thesis*, University of Surrey, Guildford, 2014
 
 ### Hobbies
-
 [Chaos and fractals](/chaos)
 
 [University of Edinburgh]: http://www.ed.ac.uk
