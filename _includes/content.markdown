@@ -6,7 +6,7 @@ My main research interests include
 - *computational auditory scene analysis*: sound source localisation and separation inspired by the human auditory system; and
 - *music information retrieval*: inference from audio such as genres, instrument detection, etc., skills which are typically effortless to humans.
 
-###Past
+### Past
 
 - MSc Artificial Intelligence, [University of Edinburgh], 2015
 - BMus Music & Sound Recording (Tonmeister), [IoSR], [University of Surrey], 2014 
