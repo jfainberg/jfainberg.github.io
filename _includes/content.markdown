@@ -25,7 +25,7 @@ I have previously worked as a theatre consultant for [Charcoalblue], advising on
 - J. Fainberg, "Improving Children's Speech Recognition through Out of Domain Data Augmentation", *Master's thesis*, University of Edinburgh, Edinburgh, 2015
 - J. Fainberg, "Sound Source Separation in Reverberant Environments using Interaural Coherence in a Probabilistic Model of Localisation", *Bachelor's thesis*, University of Surrey, Guildford, 2014
 
-###Hobbies
+%###Hobbies
 
 [Chaos and fractals](/chaos)
 
