@@ -1,0 +1,29 @@
+<header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+
+	<br /><br /><br />
+	  <ul class="social-media-list">
+		  <li> <a href="mailto:{{ site.email }}">
+	       <i class="fa fa-envelope-o"></i>
+		   <span class="username">Email</span></a></li>
+		   {% if site.github_username %}
+		             <li>
+					   <a href="https://github.com/{{ site.github_username }}">
+      <i class="fa  fa-github">
+       </i>
+        <span class="username">GitHub</span>
+        </a>
+																																	             </li>
+  {% endif %}
+  {% if site.linkedin_username %}
+  <li>
+  <a href="http://uk.linkedin.com/in/{{ site.linkedin_username }}"><i class="fa fa-linkedin-square"></i>
+	  <span class="username">LinkedIn</span></a>
+  </li>
+  {% endif %}
+  </div>
+
+</header>

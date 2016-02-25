@@ -2,9 +2,9 @@ I am a PhD student within the [ILCC] and [CSTR] institutes of the [School of Inf
 
 My main research interests include
 
-- *speech recognition*: how can we best make use of data in various acoustic and linguistic conditions?
-- *computational auditory scene analysis*: sound source localisation and separation inspired by the human auditory system, and
-- *music information retrieval*: inference from audio such as genres, cover song detection, etc., skills which are typically effortless to humans.
+- *speech recognition*: factorised adaptation of data in various acoustic and linguistic conditions;
+- *computational auditory scene analysis*: sound source localisation and separation inspired by the human auditory system; and
+- *music information retrieval*: inference from audio such as genres, instrument detection, etc., skills which are typically effortless to humans.
 
 ###Past
 
@@ -24,6 +24,9 @@ I have previously worked as a theatre consultant for [Charcoalblue], advising on
 
 - J. Fainberg, "Improving Children's Speech Recognition through Out of Domain Data Augmentation", *Master's thesis*, University of Edinburgh, Edinburgh, 2015
 - J. Fainberg, "Sound Source Separation in Reverberant Environments using Interaural Coherence in a Probabilistic Model of Localisation", *Bachelor's thesis*, University of Surrey, Guildford, 2014
+
+### Hobbies
+[Chaos and fractals](/chaos)
 
 [University of Edinburgh]: http://www.ed.ac.uk
 [University of Surrey]: http://www.surrey.ac.uk

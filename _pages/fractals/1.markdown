@@ -1,0 +1,74 @@
+---
+layout: post
+title: "1: Quadratic iterator"
+permalink: /fractals/1/
+---
+The parameters that are most interesting to tweak are `a`, `m` and `x0`. `w` sets the width of the window.
+
+{% highlight java %}
+float a = 2.75;
+int m = 3;
+float x0 = 0.10;
+boolean animate = false;
+float w = 300;
+int left = 30;
+int imax = 10;
+float xn;
+float lastX, lastY;
+int timer;
+
+void setup() {
+  size(400, 400); 
+  //noLoop();
+}
+
+
+void draw() {
+  if (animate == true) {
+    if (millis() - timer >= 5) {
+      background(255);
+      quadratic(m, a, x0);
+      //++m;
+      a += 0.01;
+      //x0 += 0.001;
+      println(a);
+      timer = millis();
+    }
+  } else {
+    println(a);
+    quadratic(m, a, x0);
+  }
+}
+
+void quadratic(int m, float a, float x0) {
+  // REM DRAW BISECTOR AND FUNCTION
+  line(left+w, left, left, left+w);
+  lastX = left; 
+  lastY=left+w;
+  for (int i = 1; i <= w; ++i) {
+    xn = i/w;
+    for (int k = 1; k <= m; ++k)
+      xn = a*xn*(1-xn);
+    line(lastX, lastY, i+left, left+w*(1-xn));
+    lastX = i+left; 
+    lastY = left+w*(1-xn);
+  }
+
+  // REM START AT X0
+  xn = x0;
+  point(left+w*xn, left+w);
+  for (int i = 1; i <= imax; ++i) {
+    // REM EVALUATE FUNCTION
+    for (int k = 1; k <= m; ++k)
+      xn = a*xn*(1-xn);
+    // REM DRAW VERTICAL AND HORIZONTAL LINE
+    line(lastX, lastY, left+w*x0, left+w*(1-xn));
+    line(left+w*x0, left+w*(1-xn), left+w*xn, left+w*(1-xn));
+    lastX = left+w*xn; 
+    lastY = left+w*(1-xn);
+    x0 = xn;
+  }
+}
+{% endhighlight %}
+
+[Chaos and Fractals]: http://www.amazon.com/Chaos-Fractals-New-Frontiers-Science/dp/0387202293

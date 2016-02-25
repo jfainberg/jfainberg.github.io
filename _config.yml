@@ -10,3 +10,4 @@ linkedin_username: jfainberg
 
 # Build settings
 markdown: kramdown
+include: ['_pages']
