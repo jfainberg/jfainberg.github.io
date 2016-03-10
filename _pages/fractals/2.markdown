@@ -1,0 +1,31 @@
+---
+layout: post
+title: "2: Sierpinski gasket"
+permalink: /fractals/2/
+---
+I like the simplicity of this one. The key line is `if ((x & (y-x)) == 0)`. 
+
+{% highlight java %}
+int patSize = 190;
+int xOffset = 30, yOffset = 30;
+
+void settings() { // to use variables within size()
+  size(patSize+xOffset*2,patSize+yOffset*2);
+}
+
+void setup() {
+  noLoop();
+}
+
+void draw() {
+  stroke(200, 20, 100);
+  for (int y = 0; y != patSize; ++y) {
+    for (int x = 0; x != patSize; ++x) {
+      if ((x & (y-x)) == 0)
+        point(x + (patSize/2) + xOffset -.5*y, y + yOffset); // -.5*y term rotates
+    }
+  }
+}
+{% endhighlight %}
+
+[Chaos and Fractals]: http://www.amazon.com/Chaos-Fractals-New-Frontiers-Science/dp/0387202293
