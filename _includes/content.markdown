@@ -15,6 +15,7 @@ My main research interests include
 I have previously worked as a theatre consultant for [Charcoalblue], advising on all aspects of audiovisual and acoustics design; and as a software tester and mechanic for the stage technology company [Visual act].
 
 ### Publications
+- [J. Fainberg, P. Bell, M. Lincoln and S. Renals, "Improving children's speech recognition through out-of-domain data augmentation", Proc. Interspeech, San Francisco, USA, September 2016](http://www.cstr.ed.ac.uk/downloads/publications/2016/master.pdf)
 
 {% comment %}
 - C. Hummersone, J. Fainberg, and M. Dewhirst, "Binaural Computational Auditory Scene Analysis in Reverberant Environments Using a Histographic Localisation Algorithm", *IEEE Transactions on Acoustics, Speech and Signal Processing* (In review), 2015
