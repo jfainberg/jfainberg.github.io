@@ -1,5 +1,7 @@
 I am a PhD student within the [ILCC] and [CSTR] institutes of the [School of Informatics] at the [University of Edinburgh]. My supervisors are [Steve Renals] and [Peter Bell].
 
+I am currently on an internship with [SONOS](http://www.sonos.com).
+
 My main research interests include
 
 - *speech recognition*: factorised adaptation of data in various acoustic and linguistic conditions;
@@ -15,6 +17,8 @@ My main research interests include
 I have previously worked as a theatre consultant for [Charcoalblue], advising on all aspects of audiovisual and acoustics design; and as a software tester and mechanic for the stage technology company [Visual act].
 
 ### Publications
+- [J. Fainberg, S. Renals, P. Bell, "Factorised representations for neural network adaptation to diverse acoustic environments", Proc. Interspeech, Stockholm, Sweden, August 2017](http://www.research.ed.ac.uk/portal/files/39658781/joachimIS2017.pdf)
+- [P. Bell, J. Fainberg, C. Lai, M. Sinclair, "A system for real time collaborative transcription correction", Proc. Interspeech, Stockholm, Sweden, August 2017](http://www.research.ed.ac.uk/portal/files/39291622/is2017demo_nh_1.pdf)
 - [J. Fainberg, P. Bell, M. Lincoln and S. Renals, "Improving children's speech recognition through out-of-domain data augmentation", Proc. Interspeech, San Francisco, USA, September 2016](http://www.cstr.ed.ac.uk/downloads/publications/2016/master.pdf)
 
 {% comment %}
