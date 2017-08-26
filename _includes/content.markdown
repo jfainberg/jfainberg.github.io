@@ -1,6 +1,6 @@
 I am a PhD student within the [ILCC] and [CSTR] institutes of the [School of Informatics] at the [University of Edinburgh]. My supervisors are [Steve Renals] and [Peter Bell].
 
-I am currently on an internship with [SONOS](http://www.sonos.com).
+I am currently on an internship with [SONOS](http://www.sonos.com), and I am part of team [Edina](https://developer.amazon.com/alexaprize/teams/edina) in the [Amazon Alexa Prize](https://developer.amazon.com/alexaprize).
 
 My main research interests include
 
