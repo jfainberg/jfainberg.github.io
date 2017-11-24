@@ -1,6 +1,6 @@
 I am a PhD student within the [ILCC] and [CSTR] institutes of the [School of Informatics] at the [University of Edinburgh]. My supervisors are [Steve Renals] and [Peter Bell].
 
-I am currently on an internship with [Sonos](http://www.sonos.com) under the supervision of [Daniele Giacobello], and I am part of team [Edina](https://developer.amazon.com/alexaprize/teams/edina) in the [Amazon Alexa Prize](https://developer.amazon.com/alexaprize).
+I recently completed an internship with [Sonos](http://www.sonos.com) under the supervision of [Daniele Giacobello], and I am part of team [Edina](https://developer.amazon.com/alexaprize/teams/edina) in the [Amazon Alexa Prize](https://developer.amazon.com/alexaprize). The data we collected is now available as the [Self-dialogue Corpus](https://github.com/jfainberg/self_dialogue_corpus).
 
 My main research interests include
 
