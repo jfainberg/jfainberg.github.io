@@ -18,7 +18,7 @@ I have previously worked as a theatre consultant for [Charcoalblue], advising on
 
 ### Publications
 - [B. Krause, M. Damonte, M. Dobre, D. Duma, J. Fainberg, F. Fancellu, E. Kahembwe, J. Cheng, B. Webber, "Edina: Building an Open Domain Socialbot with
-Self-dialogues", Proc. Alexa Prize (submitted), 2017](https://arxiv.org/pdf/1709.09816.pdf)
+Self-dialogues", Proc. Alexa Prize, 2017](https://arxiv.org/pdf/1709.09816.pdf)
 - [J. Fainberg, S. Renals, P. Bell, "Factorised representations for neural network adaptation to diverse acoustic environments", Proc. Interspeech, Stockholm, Sweden, August 2017](http://www.research.ed.ac.uk/portal/files/39658781/joachimIS2017.pdf)
 - [P. Bell, J. Fainberg, C. Lai, M. Sinclair, "A system for real time collaborative transcription correction", Proc. Interspeech, Stockholm, Sweden, August 2017](http://www.research.ed.ac.uk/portal/files/39291622/is2017demo_nh_1.pdf)
 - [J. Fainberg, P. Bell, M. Lincoln and S. Renals, "Improving children's speech recognition through out-of-domain data augmentation", Proc. Interspeech, San Francisco, USA, September 2016](http://www.cstr.ed.ac.uk/downloads/publications/2016/master.pdf)
