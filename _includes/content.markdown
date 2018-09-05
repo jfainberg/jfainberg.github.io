@@ -17,6 +17,7 @@ My main research interests include
 I have previously worked as a theatre consultant for [Charcoalblue], advising on all aspects of audiovisual and acoustics design; and as a software tester and mechanic for the stage technology company [Visual act].
 
 ### Publications
+- O. Klejch, J. Fainberg, P. Bell, ["Learning to adapt: a meta-learning approach for speaker adaptation"](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1244.pdf), Proc. Interspeech, Hyderabad, India, September 2018
 - B. Krause, M. Damonte, M. Dobre, D. Duma, J. Fainberg, F. Fancellu, E. Kahembwe, J. Cheng, B. Webber, ["Edina: Building an Open Domain Socialbot with
 Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf)
 , Proc. Alexa Prize, 2017
