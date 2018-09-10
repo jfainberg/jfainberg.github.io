@@ -1,10 +1,10 @@
 I am a PhD student within the [ILCC] and [CSTR] institutes of the [School of Informatics] at the [University of Edinburgh]. My supervisors are [Steve Renals] and [Peter Bell].
 
-This summer I am an intern with [Bloomberg](http://www.bloomberg.net). I recently completed an internship with [Sonos](http://www.sonos.com) under the supervision of [Daniele Giacobello], and I was part of team [Edina](https://developer.amazon.com/alexaprize/teams/edina) in the [Amazon Alexa Prize](https://developer.amazon.com/alexaprize). The data we collected is available as the [Self-dialogue Corpus](https://github.com/jfainberg/self_dialogue_corpus). I have a small role in the [CitySounds](http://iot.ed.ac.uk/pilots/citysounds) project.
+This summer I was an intern with [Bloomberg](http://www.bloomberg.net). Previously I completed an internship with [Sonos](http://www.sonos.com) under the supervision of [Daniele Giacobello], and I was part of team [Edina](https://developer.amazon.com/alexaprize/teams/edina) in the [Amazon Alexa Prize](https://developer.amazon.com/alexaprize). The data we collected is available as the [Self-dialogue Corpus](https://github.com/jfainberg/self_dialogue_corpus). I have a small role in the [CitySounds](http://iot.ed.ac.uk/pilots/citysounds) project.
 
 My main research interests include
 
-- *speech recognition*: factorised adaptation of data in various acoustic and linguistic conditions;
+- *speech recognition*: acoustic model adaptation in various acoustic and linguistic conditions;
 - *computational auditory scene analysis*: sound source localisation and separation inspired by the human auditory system; and
 - *music information retrieval*: inference from audio such as genres, instrument detection, etc., skills which are typically effortless to humans.
 
@@ -14,7 +14,7 @@ My main research interests include
 - BMus Music & Sound Recording (Tonmeister), [IoSR], [University of Surrey], 2014 
 - Various modules: calculus, linear algebra, electromagnetism and introductory psychology, [University of Oslo], 2010
 
-I have previously worked as a theatre consultant for [Charcoalblue], advising on all aspects of audiovisual and acoustics design; and as a software tester and mechanic for the stage technology company [Visual act].
+I have worked as a theatre consultant for [Charcoalblue], advising on all aspects of audiovisual and acoustics design; and as a software tester and mechanic for the stage technology company [Visual act].
 
 ### Publications
 - O. Klejch, J. Fainberg, P. Bell, ["Learning to adapt: a meta-learning approach for speaker adaptation"](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1244.pdf), Proc. Interspeech, Hyderabad, India, September 2018
