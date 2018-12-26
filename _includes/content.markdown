@@ -1,6 +1,6 @@
 I am a PhD student within the [ILCC] and [CSTR] institutes of the [School of Informatics] at the [University of Edinburgh]. My supervisors are [Steve Renals] and [Peter Bell].
 
-This summer I was an intern with [Bloomberg](http://www.bloomberg.net). Previously I completed an internship with [Sonos](http://www.sonos.com) under the supervision of [Daniele Giacobello], and I was part of team [Edina](https://developer.amazon.com/alexaprize/teams/edina) in the [Amazon Alexa Prize](https://developer.amazon.com/alexaprize). The data we collected is available as the [Self-dialogue Corpus](https://github.com/jfainberg/self_dialogue_corpus). I had a small role in the [CitySounds](http://iot.ed.ac.uk/pilots/citysounds) project.
+This summer I was an intern with [Bloomberg](http://www.bloomberg.net). Previously I completed an internship with [Sonos](http://www.sonos.com) under the supervision of [Daniele Giacobello], and I was part of team [Edina](https://developer.amazon.com/alexaprize/teams/edina) in the [Amazon Alexa Prize](https://developer.amazon.com/alexaprize). The data we collected is available as the [Self-dialogue Corpus](https://github.com/jfainberg/self_dialogue_corpus). I had a small role in the [CitySounds](https://citysounds.eu) project.
 
 My main research interests include
 
