@@ -27,6 +27,10 @@ Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf)
 - P. Bell, J. Fainberg, C. Lai, M. Sinclair, ["A system for real time collaborative transcription correction"](http://www.research.ed.ac.uk/portal/files/39291622/is2017demo_nh_1.pdf), Proc. Interspeech, Stockholm, Sweden, August 2017
 - J. Fainberg, P. Bell, M. Lincoln and S. Renals, ["Improving children's speech recognition through out-of-domain data augmentation"](http://www.cstr.ed.ac.uk/downloads/publications/2016/master.pdf), Proc. Interspeech, San Francisco, USA, September 2016
 
+### Patents
+- J. Fainberg, D. Giacobello, K. Hartung, N. D'Amato, "Multiple Stage Network Microphone Device with Reduced Power Consumption and Processing Load", filed, October 2018
+- J. Fainberg, D. Giacobello, K. Hartung, "Systems and Methods for Selective Wake Word Detection Using Neural Networks Models", filed, October 2018
+
 {% comment %}
 - C. Hummersone, J. Fainberg, and M. Dewhirst, "Binaural Computational Auditory Scene Analysis in Reverberant Environments Using a Histographic Localisation Algorithm", *IEEE Transactions on Acoustics, Speech and Signal Processing* (In review), 2015
 {% endcomment %}
