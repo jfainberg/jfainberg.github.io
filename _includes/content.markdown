@@ -1,10 +1,10 @@
 I am a PhD student within the [ILCC] and [CSTR] institutes of the [School of Informatics] at the [University of Edinburgh]. My supervisors are [Steve Renals] and [Peter Bell].
 
-This summer I was an intern with [Bloomberg](http://www.bloomberg.net). Previously I completed an internship with [Sonos](http://www.sonos.com) under the supervision of [Daniele Giacobello], and I was part of team [Edina](https://developer.amazon.com/alexaprize/teams/edina) in the [Amazon Alexa Prize](https://developer.amazon.com/alexaprize). The data we collected is available as the [Self-dialogue Corpus](https://github.com/jfainberg/self_dialogue_corpus). I had a small role in the [CitySounds](https://citysounds.eu) project.
+In the summer of 2018 I was an intern with [Bloomberg]. Previously I completed an internship with [Sonos] under the supervision of [Daniele Giacobello], and I was part of team [Edina](https://developer.amazon.com/alexaprize/teams/edina) in the [Amazon Alexa Prize](https://developer.amazon.com/alexaprize). The data we collected is available as the [Self-dialogue Corpus](https://github.com/jfainberg/self_dialogue_corpus). I had a small role in the [CitySounds] project.
 
 My main research interests include
 
-- *speech recognition*: acoustic model adaptation in various acoustic and linguistic conditions;
+- *automatic speech recognition*: acoustic model adaptation in various acoustic and linguistic conditions;
 - *computational auditory scene analysis*: sound source localisation and separation inspired by the human auditory system; and
 - *music information retrieval*: inference from audio such as genres, instrument detection, etc., skills which are typically effortless to humans.
 
@@ -35,10 +35,10 @@ Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf)
 - C. Hummersone, J. Fainberg, and M. Dewhirst, "Binaural Computational Auditory Scene Analysis in Reverberant Environments Using a Histographic Localisation Algorithm", *IEEE Transactions on Acoustics, Speech and Signal Processing* (In review), 2015
 {% endcomment %}
 
-#### Other
+### Theses
 
-- J. Fainberg, "Improving Children's Speech Recognition through Out of Domain Data Augmentation", *Master's thesis*, University of Edinburgh, Edinburgh, 2015
-- J. Fainberg, "Sound Source Separation in Reverberant Environments using Interaural Coherence in a Probabilistic Model of Localisation", *Bachelor's thesis* ([Poster](../soundsource_poster.pdf)), University of Surrey, Guildford, 2014
+- J. Fainberg, "Improving Children's Speech Recognition through Out of Domain Data Augmentation", *MSc thesis*, University of Edinburgh, Edinburgh, 2015
+- J. Fainberg, "Sound Source Separation in Reverberant Environments using Interaural Coherence in a Probabilistic Model of Localisation", *BMus thesis* ([Poster](../soundsource_poster.pdf)), University of Surrey, Guildford, 2014
 
 ### Hobbies
 [Chaos and fractals](/chaos)
@@ -55,3 +55,6 @@ Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf)
 [Charcoalblue]: http://www.charcoalblue.com
 [Visual act]: http://visualact.net
 [Daniele Giacobello]:https://sites.google.com/site/giacobello/
+[Sonos]:http://www.sonos.com
+[Bloomberg]:http://www.bloomberg.net
+[CitySounds]:https://citysounds.eu
