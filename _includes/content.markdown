@@ -17,7 +17,7 @@ My main research interests include
 I have worked as a theatre consultant for [Charcoalblue], advising on all aspects of audiovisual and acoustics design; and as a software tester and mechanic for the stage technology company [Visual act].
 
 ### Publications
-- J. Fainberg, O. Klejch, S. Renals, P. Bell, "Lattice-based lightly-supervised acoustic model training", Submitted to Interspeech 2019
+- J. Fainberg, O. Klejch, S. Renals, P. Bell, ["Lattice-based lightly-supervised acoustic model training"](https://arxiv.org/pdf/1905.13150.pdf), Submitted to Interspeech 2019
 - J. Fainberg, B. Krause, M. Dobre, M. Damonte, E. Kahembwe, D. Duma, B. Webber, F. Fancellu, ["Talking to myself: self-dialogues as data for conversational agents"](https://arxiv.org/pdf/1809.06641.pdf), arXiv:1809.06641, 2018
 - E. Klein, S. Chapple, J. Fainberg, C. Magill, M. Parker, C. Raab, J. Silvertown, ["Capturing the sounds of an urban greenspace"](https://www.research.ed.ac.uk/portal/files/70005023/citysounds_overview_v1.3.pdf), Smart Data and Smart Cities, Delft, Netherlands, October 2018
 - O. Klejch, J. Fainberg, P. Bell, ["Learning to adapt: a meta-learning approach for speaker adaptation"](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1244.pdf), Proc. Interspeech, Hyderabad, India, September 2018
