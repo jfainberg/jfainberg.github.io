@@ -23,6 +23,7 @@
     }
 }
 
+
 .site-nav {
     float: right;
     line-height: 56px;
@@ -231,6 +232,22 @@
 
         @include media-query($on-laptop) {
             font-size: 18px;
+        }
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    /* Overrides for Dark Mode. */
+    .site-title {
+        color: darken($dm-text-color, 15%);
+        text-decoration: none;
+        &,
+        &:visited {
+            color: darken($dm-text-color, 15%);
+        &:hover {
+            color: $dm-text-color;
+            text-decoration: none;
+        }
         }
     }
 }

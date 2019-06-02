@@ -27,7 +27,10 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
+// dark mode
+$dm-background-color: black;
+$dm-text-color: #dddddd;
+$dm-brand-color: #9c99ff;
 
 // Using media queries with like this:
 // @include media-query($on-palm) {

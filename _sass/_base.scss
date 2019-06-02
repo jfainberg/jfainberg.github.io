@@ -24,7 +24,6 @@ body {
 }
 
 
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -199,6 +198,27 @@ pre {
 
         path {
             fill: $grey-color;
+        }
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    /* Overrides for Dark Mode. */
+    body {
+        color: $dm-text-color;
+        background: $dm-background-color;
+    }
+    a {
+        color: $dm-brand-color;
+        text-decoration: none;
+
+        &:visited {
+            color: $dm-brand-color;
+        }
+
+        &:hover {
+            color: $dm-brand-color;
+            text-decoration: underline;
         }
     }
 }
