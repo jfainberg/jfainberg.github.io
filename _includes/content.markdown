@@ -1,20 +1,19 @@
 I am a PhD student within the [ILCC] and [CSTR] institutes of the [School of Informatics] at the [University of Edinburgh]. My supervisors are [Steve Renals] and [Peter Bell].
 
-In the summer of 2018 I was an intern with [Bloomberg]. Previously I completed an internship with [Sonos] under the supervision of [Daniele Giacobello], and I was part of team [Edina](https://developer.amazon.com/alexaprize/challenges/past-challenges/2017/edina) in the [Amazon Alexa Prize](https://developer.amazon.com/alexaprize). The data we collected is available as the [Self-dialogue Corpus](https://github.com/jfainberg/self_dialogue_corpus). I had a small role in the [CitySounds] project.
-
-My main research interests include
-
-- *automatic speech recognition*: acoustic model adaptation in various acoustic and linguistic conditions;
-- *computational auditory scene analysis*: sound source localisation and separation inspired by the human auditory system; and
-- *music information retrieval*: inference from audio such as genres, instrument detection, etc., skills which are typically effortless to humans.
+I'm currently working on acoustic models for automatic speech recognition, but I'm also keenly interested in other aspects of audio processing (music information retrieval) or human perception (computational auditory scene analysis). In my spare time I play piano, or more recently I'm trying to learn to play clarinet.
 
 ### Past
-
-- MSc Artificial Intelligence, [University of Edinburgh], 2015
-- BMus Music & Sound Recording (Tonmeister), [IoSR], [University of Surrey], 2014 
-- Various modules: calculus, linear algebra, electromagnetism and introductory psychology, [University of Oslo], 2010
-
-I have worked as a theatre consultant for [Charcoalblue], advising on all aspects of audiovisual and acoustics design; and as a software tester and mechanic for the stage technology company [Visual act].
+- Interned at [Bloomberg]
+- Interned at [Sonos] in the Advanced Technology team, supervised by [Daniele Giacobello]
+- Collected the [Self-dialogue Corpus] as part of team [Edina] in the [Amazon Alexa Prize]
+- Built a [sound shredder](https://www.research.ed.ac.uk/portal/files/70005023/citysounds_overview_v1.3.pdf) for the [CitySounds] project
+- Helped build a Norwegian speech synthesis voice for [Cereproc]
+- TA for [Automatic Speech Recognition] and marker for [Machine Learning Practical]
+- Theatre consultant for [Charcoalblue], advising on audiovisual and acoustics design
+- Software tester and mechanic for the stage technology company [Visual act]
+- MSc Artificial Intelligence, [University of Edinburgh] 
+- BMus Music & Sound Recording (Tonmeister), [IoSR], [University of Surrey]
+- Various modules: calculus, linear algebra, electromagnetism and psychology, [University of Oslo]
 
 ### Publications
 - J. Fainberg, O. Klejch, S. Renals, P. Bell, ["Lattice-based lightly-supervised acoustic model training"](https://arxiv.org/pdf/1905.13150.pdf), Submitted to Interspeech 2019
@@ -42,7 +41,8 @@ Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf)
 - J. Fainberg, "Sound Source Separation in Reverberant Environments using Interaural Coherence in a Probabilistic Model of Localisation", *BMus thesis* ([Poster](../soundsource_poster.pdf)), University of Surrey, Guildford, 2014
 
 ### Hobbies
-[Chaos and fractals](/chaos)
+- [Chaos and fractals](/chaos)
+- [Soundcloud](https://soundcloud.com/jodles-1)
 
 [University of Edinburgh]: http://www.ed.ac.uk
 [University of Surrey]: http://www.surrey.ac.uk
@@ -59,3 +59,9 @@ Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf)
 [Sonos]:http://www.sonos.com
 [Bloomberg]:http://www.bloomberg.net
 [CitySounds]:https://citysounds.eu
+[Edina]:https://developer.amazon.com/alexaprize/challenges/past-challenges/2017/edina
+[Amazon Alexa Prize]:https://developer.amazon.com/alexaprize
+[Self-dialogue Corpus]:https://github.com/jfainberg/self_dialogue_corpus
+[Cereproc]:https://www.cereproc.com
+[Automatic Speech Recognition]:http://www.inf.ed.ac.uk/teaching/courses/asr/index-2019.html
+[Machine Learning Practical]:http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2018.html
