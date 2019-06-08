@@ -8,7 +8,7 @@ I'm currently working on acoustic models for automatic speech recognition, but I
 - Collected the [Self-dialogue Corpus] as part of team [Edina] in the [Amazon Alexa Prize]
 - Built a [sound shredder](https://www.research.ed.ac.uk/portal/files/70005023/citysounds_overview_v1.3.pdf) for the [CitySounds] project
 - Helped build a Norwegian speech synthesis voice for [Cereproc]
-- TA for [Automatic Speech Recognition] and marker for [Machine Learning Practical]
+- TA for [Automatic Speech Recognition] and [Machine Learning Practical]
 - Theatre consultant for [Charcoalblue], advising on audiovisual and acoustics design
 - Software tester and mechanic for the stage technology company [Visual act]
 - MSc Artificial Intelligence, [University of Edinburgh] 
