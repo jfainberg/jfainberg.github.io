@@ -41,6 +41,7 @@ Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf)
 - J. Fainberg, "Sound Source Separation in Reverberant Environments using Interaural Coherence in a Probabilistic Model of Localisation", *BMus thesis* ([Poster](../soundsource_poster.pdf)), University of Surrey, Guildford, 2014
 
 ### Hobbies
+- [Current Spotify playlist](https://open.spotify.com/playlist/4r6lFJOBHyutziAGhaqke9?si=pxVxWwOESNGZHqoTfQwXxw)
 - [Chaos and fractals](/chaos)
 - [Soundcloud](https://soundcloud.com/jodles-1)
 
