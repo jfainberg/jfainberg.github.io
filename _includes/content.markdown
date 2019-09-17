@@ -16,21 +16,23 @@ I'm currently working on acoustic models for automatic speech recognition, but I
 - Various modules: calculus, linear algebra, electromagnetism and psychology, [University of Oslo]
 
 ### Publications
-- J. Fainberg, O. Klejch, S. Renals, P. Bell, ["Lattice-based lightly-supervised acoustic model training"](https://arxiv.org/pdf/1905.13150.pdf), Accepted to Interspeech, Graz, Austria, September 2019
+- J. Fainberg, O. Klejch, E. Loweimi, P. Bell, S. Renals, "Acoustic model adaptation from raw waveforms with SincNet", ASRU 2019
+- O. Klejch, J. Fainberg, P. Bell, S. Renals, "Speaker adaptive training using model agnostic meta-learning", ASRU 2019
+- J. Fainberg, O. Klejch, S. Renals, P. Bell, ["Lattice-based lightly-supervised acoustic model training"](https://arxiv.org/pdf/1905.13150.pdf), Interspeech 2019
 - O. Klejch, J. Fainberg, P. Bell, S. Renals, ["Lattice-Based Unsupervised Test-Time Adaptation of Neural Network Acoustic Models"](https://arxiv.org/pdf/1906.11521.pdf), arXiv:1906.11521, 2019
 - J. Fainberg, B. Krause, M. Dobre, M. Damonte, E. Kahembwe, D. Duma, B. Webber, F. Fancellu, ["Talking to myself: self-dialogues as data for conversational agents"](https://arxiv.org/pdf/1809.06641.pdf), arXiv:1809.06641, 2018
-- E. Klein, S. Chapple, J. Fainberg, C. Magill, M. Parker, C. Raab, J. Silvertown, ["Capturing the sounds of an urban greenspace"](https://www.research.ed.ac.uk/portal/files/70005023/citysounds_overview_v1.3.pdf), Smart Data and Smart Cities, Delft, Netherlands, October 2018
-- O. Klejch, J. Fainberg, P. Bell, ["Learning to adapt: a meta-learning approach for speaker adaptation"](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1244.pdf), Proc. Interspeech, Hyderabad, India, September 2018
+- E. Klein, S. Chapple, J. Fainberg, C. Magill, M. Parker, C. Raab, J. Silvertown, ["Capturing the sounds of an urban greenspace"](https://www.research.ed.ac.uk/portal/files/70005023/citysounds_overview_v1.3.pdf), Smart Data and Smart Cities 2018
+- O. Klejch, J. Fainberg, P. Bell, ["Learning to adapt: a meta-learning approach for speaker adaptation"](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1244.pdf), Interspeech 2018
 - B. Krause, M. Damonte, M. Dobre, D. Duma, J. Fainberg, F. Fancellu, E. Kahembwe, J. Cheng, B. Webber, ["Edina: Building an Open Domain Socialbot with
 Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf)
-, Proc. Alexa Prize, 2017
-- J. Fainberg, S. Renals, P. Bell, ["Factorised representations for neural network adaptation to diverse acoustic environments"](http://www.research.ed.ac.uk/portal/files/39658781/joachimIS2017.pdf), Proc. Interspeech, Stockholm, Sweden, August 2017
-- P. Bell, J. Fainberg, C. Lai, M. Sinclair, ["A system for real time collaborative transcription correction"](http://www.research.ed.ac.uk/portal/files/39291622/is2017demo_nh_1.pdf), Proc. Interspeech, Stockholm, Sweden, August 2017
-- J. Fainberg, P. Bell, M. Lincoln and S. Renals, ["Improving children's speech recognition through out-of-domain data augmentation"](http://www.cstr.ed.ac.uk/downloads/publications/2016/master.pdf), Proc. Interspeech, San Francisco, USA, September 2016
+, Proc. Alexa Prize 2017
+- J. Fainberg, S. Renals, P. Bell, ["Factorised representations for neural network adaptation to diverse acoustic environments"](http://www.research.ed.ac.uk/portal/files/39658781/joachimIS2017.pdf), Interspeech 2017
+- P. Bell, J. Fainberg, C. Lai, M. Sinclair, ["A system for real time collaborative transcription correction"](http://www.research.ed.ac.uk/portal/files/39291622/is2017demo_nh_1.pdf), Interspeech 2017
+- J. Fainberg, P. Bell, M. Lincoln and S. Renals, ["Improving children's speech recognition through out-of-domain data augmentation"](http://www.cstr.ed.ac.uk/downloads/publications/2016/master.pdf), Interspeech 2016
 
 ### Patents
-- J. Fainberg, D. Giacobello, K. Hartung, N. D'Amato, "Multiple Stage Network Microphone Device with Reduced Power Consumption and Processing Load", filed, October 2018
-- J. Fainberg, D. Giacobello, K. Hartung, "Systems and Methods for Selective Wake Word Detection Using Neural Networks Models", filed, October 2018
+- J. Fainberg, D. Giacobello, K. Hartung, N. D'Amato, "Multiple Stage Network Microphone Device with Reduced Power Consumption and Processing Load", filed, 2018
+- J. Fainberg, D. Giacobello, K. Hartung, "Systems and Methods for Selective Wake Word Detection Using Neural Networks Models", filed, 2018
 
 {% comment %}
 - C. Hummersone, J. Fainberg, and M. Dewhirst, "Binaural Computational Auditory Scene Analysis in Reverberant Environments Using a Histographic Localisation Algorithm", *IEEE Transactions on Acoustics, Speech and Signal Processing* (In review), 2015
