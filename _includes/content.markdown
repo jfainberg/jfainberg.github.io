@@ -1,3 +1,5 @@
+*Our code for lattice-based lightly supervised training as presented at Interspeech 2019 is now available on [GitHub](https://github.com/jfainberg/lattice_combination).*
+
 I am a PhD student within the [ILCC] and [CSTR] institutes of the [School of Informatics] at the [University of Edinburgh]. My supervisors are [Steve Renals] and [Peter Bell].
 
 I'm currently working on acoustic models for automatic speech recognition, but I'm also keenly interested in other aspects of audio processing (music information retrieval) or human perception (computational auditory scene analysis). In my spare time I play piano, or more recently I'm trying to learn to play clarinet.
