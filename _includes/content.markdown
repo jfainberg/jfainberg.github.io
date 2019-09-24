@@ -20,7 +20,7 @@ I'm currently working on acoustic models for automatic speech recognition, but I
 ### Publications
 - J. Fainberg, O. Klejch, E. Loweimi, P. Bell, S. Renals, "Acoustic model adaptation from raw waveforms with SincNet", ASRU 2019
 - O. Klejch, J. Fainberg, P. Bell, S. Renals, "Speaker adaptive training using model agnostic meta-learning", ASRU 2019
-- J. Fainberg, O. Klejch, S. Renals, P. Bell, ["Lattice-based lightly-supervised acoustic model training"](https://arxiv.org/pdf/1905.13150.pdf), Interspeech 2019
+- J. Fainberg, O. Klejch, S. Renals, P. Bell, ["Lattice-based lightly-supervised acoustic model training"](https://arxiv.org/pdf/1905.13150.pdf) [[Code](https://github.com/jfainberg/lattice_combination)], Interspeech 2019
 - O. Klejch, J. Fainberg, P. Bell, S. Renals, ["Lattice-Based Unsupervised Test-Time Adaptation of Neural Network Acoustic Models"](https://arxiv.org/pdf/1906.11521.pdf), arXiv:1906.11521, 2019
 - J. Fainberg, B. Krause, M. Dobre, M. Damonte, E. Kahembwe, D. Duma, B. Webber, F. Fancellu, ["Talking to myself: self-dialogues as data for conversational agents"](https://arxiv.org/pdf/1809.06641.pdf), arXiv:1809.06641, 2018
 - E. Klein, S. Chapple, J. Fainberg, C. Magill, M. Parker, C. Raab, J. Silvertown, ["Capturing the sounds of an urban greenspace"](https://www.research.ed.ac.uk/portal/files/70005023/citysounds_overview_v1.3.pdf), Smart Data and Smart Cities 2018
