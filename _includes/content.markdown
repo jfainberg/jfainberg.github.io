@@ -22,11 +22,11 @@ I'm currently working on acoustic models for automatic speech recognition, but I
 - O. Klejch, J. Fainberg, P. Bell, S. Renals, "Speaker adaptive training using model agnostic meta-learning", ASRU 2019
 - J. Fainberg, O. Klejch, S. Renals, P. Bell, ["Lattice-based lightly-supervised acoustic model training"](https://arxiv.org/pdf/1905.13150.pdf) [[Code](https://github.com/jfainberg/lattice_combination)], Interspeech 2019
 - O. Klejch, J. Fainberg, P. Bell, S. Renals, ["Lattice-Based Unsupervised Test-Time Adaptation of Neural Network Acoustic Models"](https://arxiv.org/pdf/1906.11521.pdf), arXiv:1906.11521, 2019
-- J. Fainberg, B. Krause, M. Dobre, M. Damonte, E. Kahembwe, D. Duma, B. Webber, F. Fancellu, ["Talking to myself: self-dialogues as data for conversational agents"](https://arxiv.org/pdf/1809.06641.pdf), arXiv:1809.06641, 2018
+- J. Fainberg, B. Krause, M. Dobre, M. Damonte, E. Kahembwe, D. Duma, B. Webber, F. Fancellu, ["Talking to myself: self-dialogues as data for conversational agents"](https://arxiv.org/pdf/1809.06641.pdf) [[Data](https://github.com/jfainberg/self_dialogue_corpus)], arXiv:1809.06641, 2018
 - E. Klein, S. Chapple, J. Fainberg, C. Magill, M. Parker, C. Raab, J. Silvertown, ["Capturing the sounds of an urban greenspace"](https://www.research.ed.ac.uk/portal/files/70005023/citysounds_overview_v1.3.pdf), Smart Data and Smart Cities 2018
 - O. Klejch, J. Fainberg, P. Bell, ["Learning to adapt: a meta-learning approach for speaker adaptation"](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1244.pdf) [[Code](https://github.com/ondrejklejch/learning_to_adapt)], Interspeech 2018
 - B. Krause, M. Damonte, M. Dobre, D. Duma, J. Fainberg, F. Fancellu, E. Kahembwe, J. Cheng, B. Webber, ["Edina: Building an Open Domain Socialbot with
-Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf)
+Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf) [[Data](https://github.com/jfainberg/self_dialogue_corpus)]
 , Proc. Alexa Prize 2017
 - J. Fainberg, S. Renals, P. Bell, ["Factorised representations for neural network adaptation to diverse acoustic environments"](http://www.research.ed.ac.uk/portal/files/39658781/joachimIS2017.pdf), Interspeech 2017
 - P. Bell, J. Fainberg, C. Lai, M. Sinclair, ["A system for real time collaborative transcription correction"](http://www.research.ed.ac.uk/portal/files/39291622/is2017demo_nh_1.pdf), Interspeech 2017
