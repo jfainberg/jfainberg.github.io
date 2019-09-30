@@ -18,7 +18,7 @@ I'm currently working on acoustic models for automatic speech recognition, but I
 - Various modules: calculus, linear algebra, electromagnetism and psychology, [University of Oslo]
 
 ### Publications
-- J. Fainberg, O. Klejch, E. Loweimi, P. Bell, S. Renals, "Acoustic model adaptation from raw waveforms with SincNet", ASRU 2019
+- J. Fainberg, O. Klejch, E. Loweimi, P. Bell, S. Renals, "Acoustic model adaptation from raw waveforms with SincNet" [[Code](https://github.com/jfainberg/sincnet_adapt)], ASRU 2019
 - O. Klejch, J. Fainberg, P. Bell, S. Renals, "Speaker adaptive training using model agnostic meta-learning", ASRU 2019
 - J. Fainberg, O. Klejch, S. Renals, P. Bell, ["Lattice-based lightly-supervised acoustic model training"](https://arxiv.org/pdf/1905.13150.pdf) [[Code](https://github.com/jfainberg/lattice_combination)], Interspeech 2019
 - O. Klejch, J. Fainberg, P. Bell, S. Renals, ["Lattice-Based Unsupervised Test-Time Adaptation of Neural Network Acoustic Models"](https://arxiv.org/pdf/1906.11521.pdf), arXiv:1906.11521, 2019
