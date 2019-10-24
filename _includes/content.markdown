@@ -19,7 +19,7 @@ I'm currently working on acoustic models for automatic speech recognition, but I
 
 ### Publications
 - J. Fainberg, O. Klejch, E. Loweimi, P. Bell, S. Renals, ["Acoustic model adaptation from raw waveforms with SincNet"](http://arxiv.org/abs/1909.13759) [[Code](https://github.com/jfainberg/sincnet_adapt)], ASRU 2019
-- O. Klejch, J. Fainberg, P. Bell, S. Renals, "Speaker adaptive training using model agnostic meta-learning" [[Code](https://github.com/ondrejklejch/learning_to_adapt)], ASRU 2019
+- O. Klejch, J. Fainberg, P. Bell, S. Renals, ["Speaker adaptive training using model agnostic meta-learning"](https://arxiv.org/abs/1910.10605) [[Code](https://github.com/ondrejklejch/learning_to_adapt)], ASRU 2019
 - J. Fainberg, O. Klejch, S. Renals, P. Bell, ["Lattice-based lightly-supervised acoustic model training"](https://arxiv.org/pdf/1905.13150.pdf) [[Code](https://github.com/jfainberg/lattice_combination)], Interspeech 2019
 - O. Klejch, J. Fainberg, P. Bell, S. Renals, ["Lattice-Based Unsupervised Test-Time Adaptation of Neural Network Acoustic Models"](https://arxiv.org/pdf/1906.11521.pdf), arXiv:1906.11521, 2019
 - J. Fainberg, B. Krause, M. Dobre, M. Damonte, E. Kahembwe, D. Duma, B. Webber, F. Fancellu, ["Talking to myself: self-dialogues as data for conversational agents"](https://arxiv.org/pdf/1809.06641.pdf) [[Data](https://github.com/jfainberg/self_dialogue_corpus)], arXiv:1809.06641, 2018
