@@ -1,10 +1,11 @@
-*Our code for lattice-based lightly supervised training as presented at Interspeech 2019 is now available on [GitHub](https://github.com/jfainberg/lattice_combination).*
+*Check out the preprint for our overview paper on [adaptation algorithms for speech recognition](https://arxiv.org/pdf/2008.06580.pdf).*
 
-I am a PhD student within the [ILCC] and [CSTR] institutes of the [School of Informatics] at the [University of Edinburgh]. My supervisors are [Steve Renals] and [Peter Bell].
+I am currently working within the [Machine Learning Center of Excellence] at J.P. Morgan Chase.
 
-I'm currently working on acoustic models for automatic speech recognition, but I'm also keenly interested in other aspects of audio processing (music information retrieval) or human perception (computational auditory scene analysis). In my spare time I play piano, or more recently I'm trying to learn to play clarinet.
+I recently finished my PhD studies within the [ILCC] and [CSTR] institutes of the [School of Informatics] at the [University of Edinburgh] under the supervision of [Steve Renals] and [Peter Bell]. There I worked on acoustic models for automatic speech recognition, but I'm also keenly interested in other aspects of audio processing (music information retrieval) or human perception (computational auditory scene analysis).
 
 ### Past
+- PhD student at [CSTR] working on automatic speech recognition
 - Interned at [Bloomberg]
 - Interned at [Sonos] in the Advanced Technology team, supervised by [Daniele Giacobello]
 - Collected the [Self-dialogue Corpus] as part of team [Edina] in the [Amazon Alexa Prize]
@@ -72,3 +73,4 @@ Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf) [[Data](https://github.co
 [Cereproc]:https://www.cereproc.com
 [Automatic Speech Recognition]:http://www.inf.ed.ac.uk/teaching/courses/asr/index-2019.html
 [Machine Learning Practical]:http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2018.html
+[Machine Learning Center of Excellence]:https://www.jpmorgan.com/insights/technology/applied-ai-and-ml
