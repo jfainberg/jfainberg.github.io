@@ -59,7 +59,7 @@ Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf) [[Data](https://github.co
 [School of Informatics]: http://www.ed.ac.uk/informatics/
 [CSTR]: http://www.cstr.ed.ac.uk
 [ILCC]: http://www.ilcc.inf.ed.ac.uk
-[Steve Renals]: http://homepages.inf.ed.ac.uk/srenals/
+[Steve Renals]: https://www.research.ed.ac.uk/portal/en/persons/stephen-renals(3593b144-170a-4242-90cf-16ffbe82f45f).html
 [Peter Bell]: http://homepages.inf.ed.ac.uk/pbell1/
 [Charcoalblue]: http://www.charcoalblue.com
 [Visual act]: http://visualact.net
