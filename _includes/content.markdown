@@ -63,7 +63,7 @@ Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf) [[Data](https://github.co
 [Peter Bell]: http://homepages.inf.ed.ac.uk/pbell1/
 [Charcoalblue]: http://www.charcoalblue.com
 [Visual act]: http://visualact.net
-[Daniele Giacobello]:https://sites.google.com/site/giacobello/
+[Daniele Giacobello]:https://giacobello.github.io
 [Sonos]:http://www.sonos.com
 [Bloomberg]:http://www.bloomberg.net
 [CitySounds]:https://citysounds.eu
