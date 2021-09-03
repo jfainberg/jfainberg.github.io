@@ -1,8 +1,8 @@
 *Check out our overview paper on [adaptation algorithms for neural network-based speech recognition](https://ieeexplore.ieee.org/abstract/document/9296327).*
 
-I am currently working within the [Machine Learning Center of Excellence] at J.P. Morgan Chase.
+I am currently a machine learning scientist within the [Machine Learning Center of Excellence] at J.P. Morgan Chase.
 
-I recently finished my PhD studies within the [ILCC] and [CSTR] institutes of the [School of Informatics] at the [University of Edinburgh] under the supervision of [Steve Renals] and [Peter Bell]. There I worked on acoustic models for automatic speech recognition, but I'm also keenly interested in other aspects of audio processing (music information retrieval) or human perception (computational auditory scene analysis).
+I recently finished my PhD studies within the [ILCC] and [CSTR] institutes of the [School of Informatics] at the [University of Edinburgh] under the supervision of [Steve Renals] and [Peter Bell]. There I worked on acoustic models for automatic speech recognition.
 
 ### Past
 - PhD student at [CSTR] working on automatic speech recognition
@@ -19,7 +19,7 @@ I recently finished my PhD studies within the [ILCC] and [CSTR] institutes of th
 - Various modules: calculus, linear algebra, electromagnetism and psychology, [University of Oslo]
 
 ### Publications
-- P. Bell, J. Fainberg, O. Klejch, J. Li, S. Renals, P. Swietojanski, "Adaptation Algorithms for Neural Network-Based Speech Recognition: An Overview" [[IEEE](https://ieeexplore.ieee.org/abstract/document/9296327), [ArXiv](https://arxiv.org/abs/2008.06580), [GitHub](https://github.com/pswietojanski/ojsp_adaptation_review_2020)], IEEE Open Journal of Signal Processing 2020
+- P. Bell, J. Fainberg, O. Klejch, J. Li, S. Renals, P. Swietojanski, ["Adaptation Algorithms for Neural Network-Based Speech Recognition: An Overview"](https://ieeexplore.ieee.org/abstract/document/9296327) [[IEEE](https://ieeexplore.ieee.org/abstract/document/9296327), [ArXiv](https://arxiv.org/abs/2008.06580), [GitHub](https://github.com/pswietojanski/ojsp_adaptation_review_2020)], IEEE Open Journal of Signal Processing 2020
 - J. Fainberg, O. Klejch, E. Loweimi, P. Bell, S. Renals, ["Acoustic model adaptation from raw waveforms with SincNet"](http://arxiv.org/abs/1909.13759) [[Code](https://github.com/jfainberg/sincnet_adapt)], ASRU 2019
 - O. Klejch, J. Fainberg, P. Bell, S. Renals, ["Speaker adaptive training using model agnostic meta-learning"](https://arxiv.org/abs/1910.10605) [[Code](https://github.com/ondrejklejch/learning_to_adapt)], ASRU 2019
 - J. Fainberg, O. Klejch, S. Renals, P. Bell, ["Lattice-based lightly-supervised acoustic model training"](https://arxiv.org/pdf/1905.13150.pdf) [[Code](https://github.com/jfainberg/lattice_combination)], Interspeech 2019
