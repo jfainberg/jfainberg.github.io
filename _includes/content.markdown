@@ -1,11 +1,7 @@
-*Check out our overview paper on [adaptation algorithms for neural network-based speech recognition](https://ieeexplore.ieee.org/abstract/document/9296327).*
-
 I am currently a machine learning scientist within the [Machine Learning Center of Excellence] at J.P. Morgan Chase.
 
-I recently finished my PhD studies within the [ILCC] and [CSTR] institutes of the [School of Informatics] at the [University of Edinburgh] under the supervision of [Steve Renals] and [Peter Bell]. There I worked on acoustic models for automatic speech recognition.
-
 ### Past
-- PhD student at [CSTR] working on automatic speech recognition
+- PhD student at [CSTR] where I worked on automatic speech recognition with [Steve Renals] and [Peter Bell]
 - Interned at [Bloomberg]
 - Interned at [Sonos] in the Advanced Technology team, supervised by [Daniele Giacobello]
 - Collected the [Self-dialogue Corpus] as part of team [Edina] in the [Amazon Alexa Prize]
@@ -38,14 +34,10 @@ Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf) [[Data](https://github.co
 - N. D'Amato, D. Giacobello, J. Fainberg, K. Hartung, "Multiple Stage Network Microphone Device with Reduced Power Consumption and Processing Load", 2020
 - J. Fainberg, D. Giacobello, K. Hartung, "Systems and Methods for Selective Wake Word Detection Using Neural Networks Models", 2020
 
-{% comment %}
-- C. Hummersone, J. Fainberg, and M. Dewhirst, "Binaural Computational Auditory Scene Analysis in Reverberant Environments Using a Histographic Localisation Algorithm", *IEEE Transactions on Acoustics, Speech and Signal Processing* (In review), 2015
-{% endcomment %}
-
 ### Theses
-
-- J. Fainberg, "Improving Children's Speech Recognition through Out of Domain Data Augmentation", *MSc thesis*, University of Edinburgh, Edinburgh, 2015
-- J. Fainberg, "Sound Source Separation in Reverberant Environments using Interaural Coherence in a Probabilistic Model of Localisation", *BMus thesis* ([Poster](../soundsource_poster.pdf)), University of Surrey, Guildford, 2014
+- "Robust learning of acoustic representations from diverse speech data", *PhD thesis*, University of Edinburgh, 2020
+- "Improving Children's Speech Recognition through Out of Domain Data Augmentation", *MSc thesis*, University of Edinburgh, 2015
+- "Sound Source Separation in Reverberant Environments using Interaural Coherence in a Probabilistic Model of Localisation", *BMus thesis* ([Poster](../soundsource_poster.pdf)), University of Surrey, 2014
 
 ### Hobbies
 - [Current Spotify playlist](https://open.spotify.com/playlist/4r6lFJOBHyutziAGhaqke9?si=pxVxWwOESNGZHqoTfQwXxw)
