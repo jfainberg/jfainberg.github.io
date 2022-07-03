@@ -1,6 +1,7 @@
-I am currently a machine learning scientist within the [Machine Learning Center of Excellence] at J.P. Morgan Chase.
+I am currently a data scientist with [Consigli].
 
 ### Past
+- Machine learning scientist (VP) within the [Machine Learning Center of Excellence] at J.P. Morgan Chase.
 - PhD student at [CSTR] where I worked on automatic speech recognition with [Steve Renals] and [Peter Bell]
 - Interned at [Bloomberg]
 - Interned at [Sonos] in the Advanced Technology team, supervised by [Daniele Giacobello]
@@ -66,3 +67,4 @@ Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf) [[Data](https://github.co
 [Automatic Speech Recognition]:http://www.inf.ed.ac.uk/teaching/courses/asr/index-2019.html
 [Machine Learning Practical]:http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2018.html
 [Machine Learning Center of Excellence]:https://www.jpmorgan.com/insights/technology/applied-ai-and-ml
+[Consigli]:https://www.consigli.ai
