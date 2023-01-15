@@ -1,4 +1,4 @@
-I am currently a tech lead / ML engineer with [Consigli].
+I am currently an AI/ML tech lead with [Consigli].
 
 ### Past
 - Machine learning scientist (VP) within the [Machine Learning Center of Excellence] at J.P. Morgan Chase.
