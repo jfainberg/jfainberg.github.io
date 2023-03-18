@@ -32,6 +32,7 @@ Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf) [[Data](https://github.co
 - J. Fainberg, P. Bell, M. Lincoln and S. Renals, ["Improving children's speech recognition through out-of-domain data augmentation"](http://www.cstr.ed.ac.uk/downloads/publications/2016/master.pdf), Interspeech 2016
 
 ### Patents
+- S. Moran, A. Emami, F. Silavong, J. Fainberg, A. Tiwari, A. Georgiadis, B. Moriarty, S.O. Adebayo, G. Papadopoulos, R. Saphal, R.F. Keith, R. Otter, S. Hall, "Detecting Secrets in Source Code", 2023
 - N. D'Amato, D. Giacobello, J. Fainberg, K. Hartung, "Multiple Stage Network Microphone Device with Reduced Power Consumption and Processing Load", 2020
 - J. Fainberg, D. Giacobello, K. Hartung, "Systems and Methods for Selective Wake Word Detection Using Neural Networks Models", 2020
 
