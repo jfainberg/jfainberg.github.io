@@ -1,6 +1,8 @@
-I am currently an AI/ML tech lead with [Consigli].
+I am a senior algorithm engineer at [Vind].
 
 ### Past
+
+- AI/ML tech lead at [Consigli].
 - Machine learning scientist (VP) within the [Machine Learning Center of Excellence] at J.P. Morgan Chase.
 - PhD student at [CSTR] where I worked on automatic speech recognition with [Steve Renals] and [Peter Bell]
 - Interned at [Bloomberg]
@@ -11,11 +13,12 @@ I am currently an AI/ML tech lead with [Consigli].
 - TA for [Automatic Speech Recognition] and [Machine Learning Practical]
 - Theatre consultant for [Charcoalblue], advising on audiovisual and acoustics design
 - Software tester and mechanic for the stage technology company [Visual act]
-- MSc Artificial Intelligence, [University of Edinburgh] 
+- MSc Artificial Intelligence, [University of Edinburgh]
 - BMus Music & Sound Recording (Tonmeister), [IoSR], [University of Surrey]
 - Various modules: calculus, linear algebra, electromagnetism and psychology, [University of Oslo]
 
 ### Publications
+
 - P. Bell, J. Fainberg, O. Klejch, J. Li, S. Renals, P. Swietojanski, ["Adaptation Algorithms for Neural Network-Based Speech Recognition: An Overview"](https://ieeexplore.ieee.org/abstract/document/9296327) [[IEEE](https://ieeexplore.ieee.org/abstract/document/9296327), [ArXiv](https://arxiv.org/abs/2008.06580), [GitHub](https://github.com/pswietojanski/ojsp_adaptation_review_2020)], IEEE Open Journal of Signal Processing 2020
 - J. Fainberg, O. Klejch, E. Loweimi, P. Bell, S. Renals, ["Acoustic model adaptation from raw waveforms with SincNet"](http://arxiv.org/abs/1909.13759) [[Code](https://github.com/jfainberg/sincnet_adapt)], ASRU 2019
 - O. Klejch, J. Fainberg, P. Bell, S. Renals, ["Speaker adaptive training using model agnostic meta-learning"](https://arxiv.org/abs/1910.10605) [[Code](https://github.com/ondrejklejch/learning_to_adapt)], ASRU 2019
@@ -25,23 +28,26 @@ I am currently an AI/ML tech lead with [Consigli].
 - E. Klein, S. Chapple, J. Fainberg, C. Magill, M. Parker, C. Raab, J. Silvertown, ["Capturing the sounds of an urban greenspace"](https://www.research.ed.ac.uk/portal/files/70005023/citysounds_overview_v1.3.pdf), Smart Data and Smart Cities 2018
 - O. Klejch, J. Fainberg, P. Bell, ["Learning to adapt: a meta-learning approach for speaker adaptation"](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1244.pdf) [[Code](https://github.com/ondrejklejch/learning_to_adapt)], Interspeech 2018
 - B. Krause, M. Damonte, M. Dobre, D. Duma, J. Fainberg, F. Fancellu, E. Kahembwe, J. Cheng, B. Webber, ["Edina: Building an Open Domain Socialbot with
-Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf) [[Data](https://github.com/jfainberg/self_dialogue_corpus)]
-, Proc. Alexa Prize 2017
+  Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf) [[Data](https://github.com/jfainberg/self_dialogue_corpus)]
+  , Proc. Alexa Prize 2017
 - J. Fainberg, S. Renals, P. Bell, ["Factorised representations for neural network adaptation to diverse acoustic environments"](http://www.research.ed.ac.uk/portal/files/39658781/joachimIS2017.pdf), Interspeech 2017
 - P. Bell, J. Fainberg, C. Lai, M. Sinclair, ["A system for real time collaborative transcription correction"](http://www.research.ed.ac.uk/portal/files/39291622/is2017demo_nh_1.pdf), Interspeech 2017
 - J. Fainberg, P. Bell, M. Lincoln and S. Renals, ["Improving children's speech recognition through out-of-domain data augmentation"](http://www.cstr.ed.ac.uk/downloads/publications/2016/master.pdf), Interspeech 2016
 
 ### Patents
+
 - S. Moran, A. Emami, F. Silavong, J. Fainberg, A. Tiwari, A. Georgiadis, B. Moriarty, S.O. Adebayo, G. Papadopoulos, R. Saphal, R.F. Keith, R. Otter, S. Hall, "Detecting Secrets in Source Code", 2023
 - N. D'Amato, D. Giacobello, J. Fainberg, K. Hartung, "Multiple Stage Network Microphone Device with Reduced Power Consumption and Processing Load", 2020
 - J. Fainberg, D. Giacobello, K. Hartung, "Systems and Methods for Selective Wake Word Detection Using Neural Networks Models", 2020
 
 ### Theses
-- "Robust learning of acoustic representations from diverse speech data", *PhD thesis*, University of Edinburgh, 2020
-- "Improving Children's Speech Recognition through Out of Domain Data Augmentation", *MSc thesis*, University of Edinburgh, 2015
-- "Sound Source Separation in Reverberant Environments using Interaural Coherence in a Probabilistic Model of Localisation", *BMus thesis* ([Poster](../soundsource_poster.pdf)), University of Surrey, 2014
+
+- "Robust learning of acoustic representations from diverse speech data", _PhD thesis_, University of Edinburgh, 2020
+- "Improving Children's Speech Recognition through Out of Domain Data Augmentation", _MSc thesis_, University of Edinburgh, 2015
+- "Sound Source Separation in Reverberant Environments using Interaural Coherence in a Probabilistic Model of Localisation", _BMus thesis_ ([Poster](../soundsource_poster.pdf)), University of Surrey, 2014
 
 ### Hobbies
+
 - [Current Spotify playlist](https://open.spotify.com/playlist/4r6lFJOBHyutziAGhaqke9?si=pxVxWwOESNGZHqoTfQwXxw)
 - [Chaos and fractals](/chaos)
 - [Soundcloud](https://soundcloud.com/jodles-1)
@@ -57,15 +63,16 @@ Self-dialogues"](https://arxiv.org/pdf/1709.09816.pdf) [[Data](https://github.co
 [Peter Bell]: http://homepages.inf.ed.ac.uk/pbell1/
 [Charcoalblue]: http://www.charcoalblue.com
 [Visual act]: http://visualact.net
-[Daniele Giacobello]:https://giacobello.github.io
-[Sonos]:http://www.sonos.com
-[Bloomberg]:http://www.bloomberg.net
-[CitySounds]:https://citysounds.eu
-[Edina]:https://developer.amazon.com/alexaprize/challenges/past-challenges/2017/edina
-[Amazon Alexa Prize]:https://developer.amazon.com/alexaprize
-[Self-dialogue Corpus]:https://github.com/jfainberg/self_dialogue_corpus
-[Cereproc]:https://www.cereproc.com
-[Automatic Speech Recognition]:http://www.inf.ed.ac.uk/teaching/courses/asr/index-2019.html
-[Machine Learning Practical]:http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2018.html
-[Machine Learning Center of Excellence]:https://www.jpmorgan.com/insights/technology/applied-ai-and-ml
-[Consigli]:https://www.consigli.ai
+[Daniele Giacobello]: https://giacobello.github.io
+[Sonos]: http://www.sonos.com
+[Bloomberg]: http://www.bloomberg.net
+[CitySounds]: https://citysounds.eu
+[Edina]: https://developer.amazon.com/alexaprize/challenges/past-challenges/2017/edina
+[Amazon Alexa Prize]: https://developer.amazon.com/alexaprize
+[Self-dialogue Corpus]: https://github.com/jfainberg/self_dialogue_corpus
+[Cereproc]: https://www.cereproc.com
+[Automatic Speech Recognition]: http://www.inf.ed.ac.uk/teaching/courses/asr/index-2019.html
+[Machine Learning Practical]: http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2018.html
+[Machine Learning Center of Excellence]: https://www.jpmorgan.com/insights/technology/applied-ai-and-ml
+[Consigli]: https://www.consigli.ai
+[Vind]: https://www.vind.ai
