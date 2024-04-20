@@ -74,5 +74,5 @@ I am a senior algorithm engineer at [Vind].
 [Automatic Speech Recognition]: http://www.inf.ed.ac.uk/teaching/courses/asr/index-2019.html
 [Machine Learning Practical]: http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2018.html
 [Machine Learning Center of Excellence]: https://www.jpmorgan.com/insights/technology/applied-ai-and-ml
-[Consigli]: https://www.consigli.ai
+[Consigli]: https://www.consigli.no
 [Vind]: https://www.vind.ai
