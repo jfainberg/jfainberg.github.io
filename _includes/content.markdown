@@ -1,7 +1,8 @@
-I am a senior algorithm engineer at [Vind].
+I am building something new. Stay tuned!
 
 ### Past
 
+- Sr Algorithm Engineer at [Vind].
 - AI/ML tech lead at [Consigli].
 - Machine learning scientist (VP) within the [Machine Learning Center of Excellence] at J.P. Morgan Chase.
 - PhD student at [CSTR] where I worked on automatic speech recognition with [Steve Renals] and [Peter Bell]
