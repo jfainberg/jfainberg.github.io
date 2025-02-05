@@ -1,4 +1,4 @@
-I am building something new. Stay tuned!
+I am the co-founder of [The Forecasting Company].
 
 ### Past
 
@@ -77,3 +77,4 @@ I am building something new. Stay tuned!
 [Machine Learning Center of Excellence]: https://www.jpmorgan.com/insights/technology/applied-ai-and-ml
 [Consigli]: https://www.consigli.no
 [Vind]: https://www.vind.ai
+[The Forecasting Company]: https://www.theforecastingcompany.com
